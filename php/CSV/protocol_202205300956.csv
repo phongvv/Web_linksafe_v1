@@ -1,0 +1,186 @@
+"id","name","category_id","index_name"
+112,ldap,,LDAP/AD
+60,http-download,,HTTP Download
+142,whatsapp-ssl,,WhatsApp
+153,upnp,,uPnP
+160,new-office-environment,,New Office Environment
+167,oracle,,Oracle
+108,florensia,,Florensia
+109,guild-wars,,Guild Wars
+113,maplestory,,MapleStory
+80,gre,,GRE
+116,warcraft-iii,,Warcraft III
+41,smbv23,,Windows SMB v2/v3
+42,mining,,Mining
+8,mdns,,Multicast DNS
+115,pptp,,PPTP
+81,icmp,,ICMP - Ping
+102,icmp-v6,,ICMP - Ping IPv6
+159,openvpn,,OpenVPN
+152,gprs,,GPRS Tunneling
+161,ciscovpn,,Cisco VPN
+16,smb,,Windows SMB v1
+54,ppstream,,PPStream
+170,whois,,Whois
+155,remotescan,,RemoteScan
+150,lotus-notes,,Lotus Notes
+78,stun,,STUN
+106,dofus,,Dofus
+165,rtcp,,RTP Control Protocol
+19,postgresql,,Postgres
+52,icecast,,Icecast
+56,shoutcast,,SHOUTcast
+111,kerberos,,Kerberos
+146,radius,,RADIUS
+98,stealthnet,,Stealthnet
+101,truphone,,Truphone
+156,spotify-synchronization-protocol,,Spotify Synchronization
+40,memcached,,Memcached
+4,imap-mail,,IMAP Mail
+196,https,,HTTPS
+58,tvants,,TvAnts
+117,world-of-kung-fu,,World of Kung Fu
+43,nest-protect,,Nest Protect
+44,modbus,,Modbus
+192,amqp,,AMQP
+166,rsync,,Rsync
+30,facebook-zero,,Facebook Zero
+99,aimini,,Aimini
+105,crossfire,,Crossfire
+104,armagetron,,Armagetron
+45,whatsapp-video,,WhatsApp Video
+31,ubiquiti-aircontrol-2,,Ubiquiti AirControl 2
+175,ftp-data,,FTP Data
+77,telnet,,Telnet
+85,ospf,,OSPF
+75,half-life-2,,Half-Life 2
+90,pcanywhere,,pcAnywhere
+96,tftp,,TFTP
+223,rx,,Rx
+3,smtp-mail,,SMTP Mail
+28,vmware,,VMware
+97,afp,,Apple File Services
+65,irc,,IRC
+88,rdp,,Remote Desktop Protocol
+89,vnc,,VNC
+1,ftp-control,,FTP Control
+74,steam,,Steam
+76,world-of-warcraft,,World of Warcraft
+189,whatsapp,,WhatsApp Legacy
+204,canon-bjnp,,Canon BJNP
+132,citrix,,Citrix Thin Client
+238,apple-push,,Apple Push
+91,ssl,,SSL
+191,ookla-speedtest,,Ookla Speedtest
+237,diameter,,Diameter
+64,certificateless-ssl,,Certificateless SSL
+71,battlefield,,BattleField
+73,vrrp,,VRRP
+29,smtps,,Secure SMTP Mail
+2,pop-mail,,POP Mail
+22,direct-download-link,,Direct Download Link
+5,dns,,DNS
+6,ipp,,Internet Printing
+7,http,,HTTP
+10,netbios,,Windows Networking
+11,nfs,,NFS
+12,ssdp,,SSDP
+13,bgp,,BGP
+53,pplive,,PPLive
+14,snmp,,SNMP
+17,syslog,,System Logger
+18,dhcp,,DHCP
+20,mysql,,MySQL
+23,pops,,Secure POP Mail
+24,applejuice,,AppleJuice
+25,direct-connect,,Direct Connect
+27,coap,,CoAP
+9,ntp,,Network Time Protocol
+55,zattoo,,Zattoo
+57,sopcast,,SopCast
+32,kontiki,,Kontiki
+33,openft,,OpenFT
+34,fasttrack,,FastTrack
+35,gnutella,,Gnutella
+36,edonkey,,eDonkey
+37,bittorrent,,BitTorrent
+51,imaps,,Secure IMAP Mail
+59,tvu-tv,,TVUPlayer
+61,qqlive,,QQLive
+62,thunder,,Thunder
+63,soulseek,,Soulseek
+138,check_mk,,Check_MK
+86,ip-in-ip,,IP in IP
+79,ipsec,,IPsec
+48,tencent-qq,,QQ Instant Messenger
+47,xbox,,Xbox
+38,skype-outbound,,Skype
+66,anything-in-anything,,Anything In Anything
+84,sctp,,SCTP
+92,ssh,,SSH Secure Shell
+100,sip,,SIP
+107,fiesta,,Fiesta
+148,teamviewer,,TeamViewer
+151,sap,,SAP
+188,quic,,QUIC
+162,teamspeak,,TeamSpeak
+181,gateway-control-protocol,,H.248 MGCP
+131,http-proxy,,HTTP Web Proxy
+164,cisco-skinny,,Skinny
+177,zeromq,,ZeroMQ
+172,socks-5,,SOCKS5
+171,collectd,,Collectd
+110,activesync,,ActiveSync
+128,netflow,,NetFlow
+129,sflow,,sFlow
+174,rtmp,,Real Time Messaging
+139,ajp,,Apache JServ
+95,iax,,Asterisk IAX
+127,dce-rpc,,DCE/RPC
+158,h323,,H.323
+154,llmnr,,Link-Local Multicast
+114,microsoft-sql-server,,Microsoft SQL Server
+207,smpp,,SMPP
+209,tinc,,Tinc
+226,git,,Git
+230,fix,,FIX
+235,csgo,,CSGO
+30030,filetopia,,Filetopia
+30038,epp,,EPP Domain Provisioning
+30072,quake,,Quake
+198,mpeg-ts,,MPEG Transport Stream
+30139,citrix-online,,Citrix Online
+50,rtsp,,Real Time Streaming Protocol
+87,rtp,,RTP
+206,wireguard,,WireGuard
+214,teredo,,Teredo IPv6
+213,starcraft,,StarCraft
+30049,skype-inbound,,Skype Inbound
+190,eaq,,EAQ
+30031,imesh,,iMesh
+227,drda,,DRDA
+30118,meebo,,Meebo
+236,lisp,,LISP
+216,eep-hep,,EEP
+229,someip,,SOME/IP
+121,dropbox,,Dropbox
+103,dhcp-v6,,DHCP IPv6
+183,pando-media-booster,,Pando Media Booster
+182,redis,,Redis
+82,igmp,,IGMP
+130,http-connect,,HTTP Web Proxy Connect
+222,mqtt,,MQTT
+201,google-hangout,,Google Hangout
+194,kakaotalk-voice,,KakaoTalk Voice
+173,nintendo,,Nintendo
+185,telegram,,Telegram
+0,unclassified,,Unclassified
+83,egp,,EGP
+168,corba,,Corba
+67,jabber,,XMPP
+184,vhua,,VHUA
+125,skype,,Skype for Business
+15,xdmcp,,X-Windows Display
+94,mgcp,,MGCP
+93,usenet,,Usenet
+69,aol-im,,AOL Instant Messenger

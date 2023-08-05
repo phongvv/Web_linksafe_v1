@@ -1,0 +1,24 @@
+"id","name","description"
+1,unclassified,Unclassified
+2,database,Database
+3,desktop,Desktop
+4,file-server,File Server
+5,file-sharing,File Sharing
+6,forums,Forums
+7,games,Games
+8,game-providers,Game Providers
+9,infrastructure,Infrastructure
+10,instant-messaging,Instant Messaging
+11,mail,Mail
+12,media,Media
+13,media-provider,Media Provider
+14,networking,Networking
+15,online-storage,Online Storage
+16,proxy,Proxy
+17,authentication,Authentication
+18,remote-desktop,Remote Desktop
+20,voip,VoIP/Conferencing
+21,vpn,VPN22
+23,video-conferencing,Video Conferencing
+24,messaging,Messaging
+25,printing,Printing

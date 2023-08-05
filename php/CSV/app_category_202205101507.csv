@@ -1,0 +1,33 @@
+"id","name","description"
+2,adult,Adult
+3,advertiser,Advertiser
+4,entertainment,Entertainment
+5,business,Business
+6,education,Education
+9,financial,Financial
+10,file-sharing,File Sharing
+12,games,Games
+13,government,Government
+14,health,Health
+15,mail,Mail
+16,malware,Malware
+17,messaging,Messaging
+18,news,News
+19,portal,Portal
+20,recreation,Recreation
+21,reference,Reference
+22,science,Science
+23,shopping,Shopping
+24,social-media,Social Media
+25,society,Society
+26,sports,Sports
+27,technology,Technology
+28,vpn-and-proxy,Vpn And Proxy
+29,streaming-media,Streaming Media
+30,cybersecurity,Cyber Security
+31,os-software-updates,OS Software Updates
+32,voip,VoIp
+33,device-iot,Device IOT
+34,remote-desktop,Remote Desktop
+35,cdn,CDN
+36,hosting,Hosting

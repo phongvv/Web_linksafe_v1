@@ -1,0 +1,38 @@
+version: "3.7"
+
+services:
+
+  web:
+    image: lancsnet/linksafe:web_nginx
+    ports:
+    - 443:443 
+    volumes:
+      - ../php/api:/usr/www/api
+      - ../php/inc:/usr/inc
+      - ./default.conf:/etc/nginx/conf.d/default.conf
+      - ./nginx.conf:/etc/nginx/nginx.conf
+      - ./keyssl/nginx-selfsigned.crt:/root/nginx-selfsigned.crt
+      - ./keyssl/nginx-selfsigned.key:/root/nginx-selfsigned.key
+    depends_on:
+      - php
+      - sqlite3
+    restart: always
+
+  php:
+    image: lancsnet/linksafe:web_php
+    volumes:
+      - ../php/api:/usr/www/api
+      - ../php/inc:/usr/inc
+      - ./php.ini:/usr/local/etc/php/php.ini
+      - ./php.ini:/etc/php/php.ini
+    restart: always
+  
+  sqlite3:
+    image: lancsnet/linksafe:web_database
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./test.db:/root/test.db
+    restart: always
+
+

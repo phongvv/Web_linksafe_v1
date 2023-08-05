@@ -1,0 +1,1140 @@
+"id","name","category_id","index_name"
+11037,"6sense",3,"6sense"
+10954,Aarki,3,aarki
+11048,AcuityAds,3,acuityads
+10949,AdaptMX,3,adaptmx
+10081,AdColony,3,adcolony
+10436,Adform,3,adform
+10851,Adjust,3,adjust
+10747,Adobe Ads,3,adobe-ads
+11004,AdRoll,3,adroll
+10895,AdTheorant,3,adtheorant
+10177,Airship,3,urban-airship
+10381,Alexa.com,3,alexa
+10013,Amazon Advertising,3,amazon-advertising
+10367,Amazon Assistant,3,amazon-assistant
+10298,Amobee,3,amobee
+10966,Aniview,3,aniview
+10715,Appcues,3,appcues
+10695,AppLovin,3,applovin
+10152,AppNexus,3,appnexus
+10899,Audigent,3,audigent
+10765,Barefruit,3,barefruit
+10095,BidSwitch,3,bidswitch
+10977,Bidtellect,3,bidtellect
+11094,Blockthrough,3,blockthrough
+10838,Bombora,3,bombora
+10278,Branch IO,3,branch-io
+10246,Braze,3,braze
+10649,BritePool,3,britepool
+10923,C3 Metrics,3,c3metrics
+10470,Casale Media,3,casalemedia
+10807,Centro,3,centro
+10946,Cheetah Digital,3,cheetah-digital
+10493,Cheil PengTai,3,cheil-pengtai
+10902,CHEQ,3,cheq-ai
+10713,CleverTap,3,clevertap
+10771,ClickMagick,3,clickmagick
+10858,Cloudinary,3,cloudinary
+10936,Confiant,3,confiant
+10134,Constant Contact,3,constant-contact
+10950,Consumable,3,consumable
+10128,Convertro,3,convertro
+10269,Conviva,3,conviva
+11023,Crazy Egg,3,crazy-egg
+10098,Criteo,3,criteo
+10199,Crownpeak,3,crownpeak
+10161,DoubleVerify,3,doubleverify
+10101,Drawbridge,3,drawbridge
+10574,Drift,3,drift
+10922,Dstillery,3,dstillery
+10545,EMX,3,emx-digital
+10821,Epsilon,3,epsilon
+11029,ExoClick,3,exoclick
+10130,Exponential,3,exponential
+10926,Eyeota,3,eyeota
+11017,Flixmedia,3,flixmedia
+10303,Flurry,3,flurry
+10419,Freewheel,3,freewheel
+10059,Fyber,3,fyber
+10889,Gemius,3,gemius
+11082,GetResponse,3,getresponse
+11043,Gong,3,gong-io
+10544,GumGum,3,gumgum
+10801,HeyTap,3,heytap
+10805,Hotjar,3,hotjar
+10034,HubSpot,3,hubspot
+10853,ID5,3,id5
+10872,Inmar,3,inmar
+10830,InMobi,3,inmobi
+10925,Innovid,3,innovid
+10050,Intercom,3,intercom
+11002,IPONWEB,3,iponweb
+10815,Jivox,3,jivox
+10636,JW Player,3,jw-player
+10743,Klaviyo,3,klaviyo
+10885,Liftoff,3,liftoff
+10782,LiveIntent,3,liveintent
+10913,LiveRamp,3,liveramp
+10471,Lotame,3,lotame-advertising
+10839,Magnite,3,magnite
+10912,Marin Software,3,marin-software
+10744,Medallia,3,medallia
+10173,MediaMath,3,mediamath
+10388,Merkle Marketing,3,merkle-marketing
+10409,MGID,3,mgid
+10087,Moat Ad Search,3,moatads
+10886,Momentive,3,momentive
+10366,MoPub,3,mopub
+10757,Narrativ,3,narrativ
+10476,Nielsen Marketing,3,nielsen
+10948,OneTag,3,onetag
+10468,Opensignal,3,opensignal
+10093,OpenX,3,openx
+10086,Optimizely,3,optimizely
+10118,Outbrain,3,outbrain
+10682,PopAds,3,popads-net
+10775,Postie,3,postie
+10898,Primis,3,primis
+10092,PubMatic,3,pubmatic
+10277,Pusher,3,pusher
+10986,Pushly,3,pushly
+10856,Qualtrics,3,qualtrics
+10012,Quantcast,3,quantcast
+10168,RhythmOne,3,rhythmone
+10804,RTB House,3,rtb-house
+10153,Salesforce,3,salesforce
+10503,Segment,3,segment
+10869,ShareThis,3,sharethis
+10874,Sharethrough,3,sharethrough
+10808,Simpli.fi,3,simpli-fi
+10978,Smaato,3,smaato
+10957,Sonobi,3,sonobi
+10777,Sourcepoint,3,sourcepoint
+11024,Sovrn,3,sovrn
+10896,StackAdapt,3,stackadapt
+11032,Statcounter,3,statcounter
+10837,TANX Ads,3,tanx
+10714,"",3,unruly-group
+10760,"",3,verizon-platform
+11013,"",5,amazon-platform
+10158,"",5,gramin
+11012,"",5,google-platform
+10229,"",5,inel
+10559,intent Media,3,intent-media
+10342,ironSource,3,ironsource
+10390,Taboola,3,taboola
+10266,Chaturbate,2,chaturbate
+10903,Onlyfans,2,onlyfans
+10123,Porn Hub,2,pornhub
+10719,Redtube,2,redtube
+10736,Sex-Com,2,sex-com
+10652,Xvideos,2,xvideos
+10219,Xhamster,2,xhamster
+10721,Youjizz,2,youjizz
+10297,One by AOL,3,agkn-com
+10100,AddThis,3,addthis
+10385,BlueKai,3,bluekai
+10000,DoubleClick,3,doubleclick
+10154,One-by-Aol,3,one-by-aol
+10094,Rubicon Project,3,rubiconproject
+10731,Tapad,3,tapad
+10206,Tapjoy,3,tapjoy
+10245,Taplytics,3,taplytics
+10680,Tealium,3,tealium
+10979,Technorati,3,technorati
+10749,Telaria Video,3,telaria
+10155,TowerData,3,towerdata
+11035,Traffic Factory,3,traffic-factory
+10776,TripleLift,3,triplelift
+10881,Undertone,3,undertone
+11044,UserReport,3,userreport
+10897,Viant Adelphic,3,viant
+10696,Vungle,3,vungle
+10716,WalkMe,3,walkme
+10742,Wistia,3,wistia
+10748,Xaxis,3,xaxis
+10121,Yandex,3,yandex
+10965,Yieldmo,3,yieldmo
+10892,Zeta Global,3,zeta-global
+145,Apple iTunes,4,apple-itunes
+10389,Audible,4,audible
+10244,BBC,4,bbc
+10265,Bell Media,4,bell-media
+10071,Blogger,4,blogger
+10857,BuzzFeed,4,buzzfeed
+10469,ByteDance,4,bytedance
+10014,CBC,4,cbc
+10325,CBS,4,cbs
+10077,Cineplex,4,cineplex
+10711,Conde Nast,4,conde-nast
+10257,CTV,4,ctv
+10076,Diply,4,diply
+10612,DirecTV,4,directv
+10814,FaceApp,4,faceapp
+10144,FANDOM,4,fandom
+10995,Fox,4,fox-broadcasting
+10162,Fox News,4,fox-news
+10606,GIPHY,4,giphy
+10255,Gracenote,4,gracenote
+10107,IMDb,4,imdb
+10075,Imgur,4,imgur
+10224,NBCUniversal,4,nbcuni
+10373,NPR,4,npr
+196,QuickPlay,4,quickplay
+10633,SiriusXM,4,siriusxm
+10360,The Movie Database,4,tmdb
+10624,The New Yorker,4,the-new-yorker
+10164,TMZ,4,tmz
+10067,Tumblr,4,tumblr
+10156,Turner,4,turner
+10788,WarnerMedia,4,warnermedia
+10456,"101domains",5,"101domain"
+10222,"1Password",5,"1password"
+10119,Adobe,5,adobe
+10835,Air Canada,5,air-canada
+178,Amazon,5,amazon
+10472,Amazon Alexa,5,amazon-alexa
+10927,AMD,5,amd
+10831,American Airlines,5,american-airlines
+11016,AnyClip,5,anyclip
+10655,AnyDesk,5,anydesk
+11090,Apigee,5,apigee
+140,Apple,5,apple
+10706,Apple ID,5,apple-id
+10392,Apple Siri,5,apple-siri
+10511,AT&T,5,at-and-t
+10479,AT&T Monitoring,5,att-caller-iq
+11068,Auth0,5,auth0
+10566,Autodesk,5,autodesk
+11031,Behance,5,behance
+10449,Bell Canada,5,bell-canada
+10253,Broadcom GPS,5,broadcom-gps
+11095,BT,5,bt
+10587,Bugsnag,5,bugsnag
+10654,Carbonite,5,carbonite
+11072,China Mobile,5,china-mobile
+11059,China Unicom,5,china-unicom
+10596,CHOC,5,choc
+10495,Citrix,5,citrix
+10031,ClearCenter,5,clearcenter
+10430,ClearCenter DNS,5,clearcenter-dns
+10306,ClearFoundation,5,clearfoundation
+10905,Clover,5,clover
+10752,CookieLaw,5,cookielaw
+10444,Corel,5,corel
+11091,Coveo,5,coveo
+11030,Cox,5,cox
+10604,D-Link,5,dlink
+10562,Datadog,5,datadog
+10213,Datto,5,datto
+10921,DocuSign,5,docusign
+10735,DoorDash,5,doordash
+11040,Emirates,5,emirates
+10990,Evernote,5,evernote
+10726,Fedex,5,fedex
+10586,Fing,5,fing
+10080,Firefox,5,firefox
+10210,Freshdesk,5,freshdesk
+10318,Freshworks,5,freshworks
+11052,G2,5,g2
+10567,Gartner,5,gartner
+10475,Giraffic,5,giraffic
+10878,GoGo,5,gogoair
+10705,Google Auth,5,google-authentication
+10845,Google Firebase,5,firebase
+10136,Google Workspace,5,gsuite
+10097,Got Junk,5,gotjunk
+10258,Grafana Labs,5,grafana
+10840,Helpshift,5,helpshift
+10643,HughesNet,5,hughesnet
+10099,IBM,5,ibm
+10549,Infura,5,infura
+10641,Inmarsat,5,inmarsat
+10497,Intel,5,intel
+10491,Intsig,5,intsig
+10339,ITarian,5,itarian
+10623,JumpCloud,5,jumpcloud
+10581,K4 Mobility,5,k4mobility
+11050,Kandji,5,kandji
+10693,KeyCDN,5,keycdn
+11014,"",5,oracle-platform
+10800,"",9,banamex
+11083,du Emirates,5,du-eitc
+10701,jsDelivr,5,jsdelivr
+10717,LaunchDarkly,5,launchdarkly
+10764,LivePerson,5,liveperson
+10570,LogicMonitor,5,logicmonitor
+10212,MakerBot,5,makerbot
+10524,ManageEngine,5,manageengine
+10501,MarkMonitor,5,markmonitor
+202,Microsoft,5,microsoft
+205,Microsoft Office,5,office-365
+10865,Microsoft SharePoint,5,sharepoint
+10264,Microsoft Teams,5,teams
+11007,monday.com,5,monday-com
+10611,MPulse Software,5,go-mpulse
+10690,Neustar,5,neustar
+10270,New Relic,5,new-relic
+10993,News Corp,5,news-corp
+10929,Nokia,5,nokia
+10553,Notion,5,notion-io
+11096,Nuance,5,nuance
+10396,Nvidia,5,nvidia
+10934,Okta,5,okta
+10151,OpenOffice,5,openoffice
+10433,Opera,5,opera
+10888,Oracle,5,oracle
+10116,Orange,5,orange
+10657,PDQ.com,5,pdq
+10294,pingdom.com,5,pingcom
+10602,Pitney Bowes,5,pitney-bowes
+10789,Polyfill,5,polyfill
+10486,PubNub,5,pubnub
+10399,Pulseway,5,pulseway
+10218,RBackup,5,rbackup
+10931,Ricoh,5,ricoh
+10313,Rogers,5,rogers
+10849,Samsara,5,samsara
+10836,SAP,5,sap
+11076,Section,5,section-io
+10450,Sentry,5,sentry-io
+10547,ServiceNow,5,servicenow
+10090,SimilarWeb,5,similarweb
+10404,Site24x7,5,site247
+10535,Sky,5,sky
+10227,Slack,5,slack
+10512,SmartDrive,5,smartdrive
+10138,SolarWinds,5,solarwinds
+10326,Sony,5,sony
+10709,SpaceX,5,spacex
+10727,Split,5,split-io
+10548,Splunk,5,splunk
+10642,Starlink,5,starlink
+10829,Statuspage,5,statuspage
+10370,T-Mobile,5,t-mobile
+10960,Telstra,5,telstra
+10584,Telus,5,telus
+10552,Tesla,5,tesla
+10634,Toshiba,5,toshiba
+10461,Trimble MAPS,5,trimble
+10875,Uber,5,uber
+10894,Unpkg Javascript,5,unpkg
+10832,UPS,5,ups
+10038,UserEngage,5,userengage
+10640,ViaSat,5,viasat
+11027,Visual Studio,5,visualstudio
+10320,Vodafone,5,vodafone
+10462,Volvo,5,volvo
+10428,Vultr,5,vultr
+11054,WoodyNet,5,woodynet
+10070,WordPress,5,wordpress
+10928,Workday,5,workday
+11018,Workplace,5,workplace
+10797,Workspace ONE,5,workspace-one
+10445,Xara Cloud,5,xara
+10337,Xfinity,5,xfinity
+11098,YouGov,5,yougov
+10126,Zendesk,5,zendesk
+10365,Zoho,5,zoho
+10089,Edmodo,6,edmodo
+10490,Freelancer,6,freelancer
+10329,Grammarly,6,grammarly
+10855,Indeed,6,indeed
+10637,Khan Academy,6,khan-academy
+10053,Queen's University,6,queens-university
+10324,Seesaw,6,seesaw
+10505,"4shared",10,"4shared"
+11080,Absa,9,absa
+10997,ADP,9,adp
+11039,Afterpay,9,afterpay
+10773,Alipay,9,alipay
+10172,Anthem,9,anthem-insurance
+10941,ANZ,9,anz
+10289,Bank of America,9,bank-of-america
+10983,Bill.com,9,bill-com
+11025,Binance,9,binance
+10065,BMO,9,bmo
+10272,Canadian Tire Bank,9,canadian-tire-bank
+10876,Capital One,9,capital-one
+10064,CIBC,9,cibc
+10810,Citi,9,citigroup
+10822,Coinbase,9,coinbase
+10940,CommBank,9,commbank
+10658,Ethermine,9,ethermine
+10756,EY,9,ernst-and-young
+10998,Fidelity,9,fidelity
+10812,Fiserv,9,fiserv
+10662,Flypool Ravencoin,9,flypool-ravencoin
+10661,Flypool Ycash,9,flypool-ycash
+11077,FNB,9,fnb
+10729,HSBC,9,hsbc
+11062,IHS Markit,9,ihs-markit
+10311,Intuit,9,intuit
+10956,LendingTree,9,lendingtree
+10842,Mastercard,9,mastercard
+10943,National Australia Bank,9,nab-bank
+11078,Nedbank,9,nedbank
+10019,RBC Royal Bank,9,rbc
+10833,RBS,9,rbs
+10645,Robinhood,9,robinhood
+10656,SimpleMining,9,simplemining
+11079,Standard Bank,9,standardbank
+10085,Stripe,9,stripe
+10066,TD,9,td
+10944,Venmo,9,venmo
+10798,Visa,9,visa
+10914,"",16,dopansearor
+10166,"",16,dropbox-phishing
+10332,"",16,rfihub
+10394,"",16,suspicious-activity
+10667,BitTorrent Client,10,bittorrent
+121,Dropbox,10,dropbox
+10817,Fastdrive,10,fastdrive
+10426,FileFactory,10,filefactory
+10904,MediaFire,10,mediafire
+10504,Mega,10,mega-service
+207,Microsoft OneDrive,10,microsoft-onedrive
+10452,NZB.su,10,nzb-su
+10920,RARBG,10,rarbg
+10508,ShareFile,10,sharefile
+10951,SHAREit,10,ushareit
+10434,Syncplicity,10,syncplicity
+10494,The Pirate Bay,10,the-pirate-bay
+10663,torrent.eu.org,10,torrent-eu-org
+10515,uTorrent,10,utorrent
+10483,Xender,10,xender
+10447,Zer0day Tracker,10,zer0day-tracker
+10621,"2K Gaming",12,"2k-gaming"
+10072,Agar.io,12,agario
+10666,Ark Game,12,ark-game
+10694,Big Fish Games,12,big-fish-games
+10103,Bluestacks,12,bluestacks
+10963,Call of Duty,12,call-of-duty
+10321,Candy Crush,12,candy-crush
+10083,Clash of Clans,12,clashofclans
+10890,CPMStar,12,cpmstar
+10037,Electronic Arts,12,ea-games
+10201,Epic Games,12,epic-games
+10632,Forge of Empires,12,forge-of-empires
+10530,Gameloft,12,gameloft
+10697,GOG.com,12,gog-com
+10322,King Games,12,king-games
+10939,Madden by EA,12,madden-ea
+10028,Minecraft,12,minecraft
+10073,Miniclip,12,miniclip
+10414,Mixer,12,mixer
+10938,NHL by EA,12,nhl-ea
+10046,Nintendo,12,nintendo
+10796,OP.GG,12,op-gg
+10251,Origin by EA,12,origin-ea
+10887,Playrix,12,playrix
+10506,Riot Games,12,riot-games
+10039,ROBLOX,12,roblox
+10003,Steam,12,steam
+10250,Supercell,12,supercell
+10806,Take-Two Interactive,12,take-two
+10481,Ubisoft,12,ubisoft
+10891,Wargaming,12,wargaming
+10234,Xbox,12,xbox
+10425,Xbox Live,12,xbox-live
+10868,Zynga,12,zynga
+10443,Government of Brazil,13,brazil-government
+10571,Homeland Security,13,homeland-security
+10626,IRS,13,irs-usa
+11057,NASA,13,nasa
+10863,U.S. Military,13,us-military
+10377,UK Government,13,uk-government
+10770,USPS,13,usps
+10785,Apple Mail,15,apple-mail
+122,Gmail,15,gmail
+10724,GMX,15,gmx-mail
+10247,Mailchimp,15,mailchimp
+11070,Mailgun,15,mailgun
+10017,Microsoft Outlook,15,outlook
+10762,SendGrid,15,sendgrid
+10945,SparkPost,15,sparkpost
+10700,Thunderbird,15,thunderbird
+10563,Agafurretor Adware,16,agafurretor-com
+10349,Conduit Toolbar,16,conduit-toolbar
+10864,Apple Push,17,apple-push
+10287,Discord,17,discord
+10142,Disqus,17,disqus
+10910,Google Chat,17,google-chat
+10702,ICQ,17,icq
+10962,jPush,17,jpush
+193,Kakao Talk,17,kakaotalk
+10082,KIK,17,kik
+10237,Pushover,17,pushover
+10795,Rocket.Chat,17,rocket-chat
+10240,Signal,17,signal
+199,Snapchat,17,snapchat
+10687,Stream,17,stream-io
+10185,Telegram,17,telegram
+10402,WeChat,17,wechat
+142,WhatsApp,17,whatsapp
+10750,Zalo,17,zalo
+10048,AccuWeather,18,accuweather
+10631,Axios,18,axios
+10283,Bloomberg,18,bloomberg
+10358,CNBC,18,cnbc
+180,CNN,18,cnn
+10955,Der Spiegel,18,der-spiegel
+10591,FiveThirtyEight,18,fivethirtyeight
+10525,Forbes,18,forbes
+10588,RealClearPolitics,18,realclearpolitics
+10779,Slashdot,18,slashdot
+10416,The Atlantic,18,the-atlantic
+11097,The Economist,18,the-economist
+10015,The Globe and Mail,18,globe-and-mail
+10379,The New York Times,18,new-york-times
+10568,The Times of India,18,times-of-india
+10049,The Weather Network,18,the-weather-network
+10575,Thomson Reuters,18,thomson-reuters
+10159,Tronc,18,tronc
+10088,Vice,18,vice
+10557,Wall Street Journal,18,wall-street-journal
+10239,Weather Underground,18,weather-underground
+10216,WeatherFlow,18,weatherflow
+10108,Baidu,19,baidu
+10022,Bing,19,bing
+10879,Daum,19,daum
+10122,Hao123,19,hao123
+10569,IndiaTimes,19,indiatimes
+10484,Mail.Ru,19,mail-ru
+68,MSN,19,msn
+10846,So 360,19,so-360
+10803,Sogou,19,sogou
+10115,Sohu,19,sohu
+10908,TouTiao,19,toutiao
+10060,Airbnb,20,airbnb
+10532,Booking.com,20,booking-com
+10555,Expedia,20,expedia
+10004,"",24,google-plus
+10127,"",24,musically
+10537,Medium,20,medium
+10336,OpenTable,20,opentable
+10595,Peloton,20,peloton
+10560,SkipTheDishes,20,skipthedishes
+10558,Tripadvisor,20,tripadvisor
+10542,Vrbo,20,vrbo
+10340,Yelp,20,yelp
+10176,AutoNavi,21,autonavi
+123,Google Maps,21,google-maps
+10096,IpInfo,21,ipinfo
+10261,ipstack,21,ipstack
+10104,Mapbox,21,mapbox
+10454,Moovit,21,moovit
+10466,Stack Overflow,21,stack-overflow
+10043,Transit App,21,transit-app
+135,Waze,21,waze
+176,Wikipedia,21,wikipedia
+10282,Alibaba,23,alibaba
+10124,AliExpress,23,aliexpress
+10598,Best Buy,23,bestbuy
+10271,Canadian Tire,23,canadian-tire
+10599,Costco,23,costco
+10981,Crate and Barrel,23,crate-and-barrel
+179,eBay,23,ebay
+10674,Etsy,23,etsy
+10834,Home Depot,23,home-depot
+10554,Honey,23,joinhoney
+10150,IKEA,23,ikea
+10964,Instacart,23,instacart
+10074,Kijiji,23,kijiji
+10989,Kohls,23,kohls
+10601,Kroger,23,kroger
+11074,Lazada,23,lazada
+10198,Purple,23,purple-mattress
+10988,Rakuten,23,rakuten
+10862,Shopee,23,shopee
+10035,Shopify,23,shopify
+10600,Target,23,target
+10710,Ticketmaster,23,ticketmaster
+10412,Walmart,23,walmart
+10725,Wayfair,23,wayfair
+10062,Wish,23,wish
+10691,Badoo,24,badoo
+11067,Discourse,24,discourse
+10907,Douyin,24,douyin
+10361,Flickr,24,flickr
+10207,Gravatar,24,gravatar
+201,Instagram,24,instagram
+10992,Kwai,24,kwai
+10971,Meta,24,meta
+10671,OkCupid,24,okcupid
+10590,OpenWeb,24,openweb
+10069,Pinterest,24,pinterest
+10010,Reddit,24,reddit
+10363,Tinder,24,tinder
+149,Tuenti,24,tuenti
+120,Twitter,24,twitter
+10113,VK,24,vk
+10432,DAZN,26,dazn
+10008,ESPN,26,espn
+10847,FIFA,26,fifa
+10026,MLB,26,mlb
+10593,NBA,26,nba
+10592,NFL,26,nfl
+10027,NHL,26,nhl
+10139,Sporting News,26,sporting-news
+10009,theScore,26,thescore
+10999,Acast,29,acast
+10184,Amazon Video,29,amazon-prime
+10238,Crave,29,crave
+10708,Dailymotion,29,dailymotion
+200,Deezer,29,deezer
+10417,Disney Plus,29,disney-plus
+10395,HBO,29,hbo
+10362,Hulu,29,hulu
+134,Last.fm,29,last-fm
+133,Netflix,29,netflix
+187,Pandora,29,pandora
+11093,Paramount Plus,29,paramount-plus
+10968,Peacock TV,29,peacocktv
+10102,Plex,29,plex
+10703,SomaFM,29,somafm
+156,Spotify,29,spotify
+11092,Stan Video,29,stan-video
+10848,Streamable,29,streamable
+10980,Tubi,29,tubi
+10267,TuneIn,29,tunein
+186,Vevo,29,vevo
+10055,Vimeo,29,vimeo
+10969,VRV,29,vrv
+10919,AFRINIC,27,afrinic
+10406,ARIN,27,arin-net
+10242,Atlassian,27,atlassian
+10678,ChangeIP,27,changeip
+10299,Cloudflare DNS,27,cloudflare-dns
+10474,DataTables,27,datatables
+10538,Duck DNS,27,duck-dns
+10670,Dyn,27,dyn
+10958,Fastweb,27,fastweb-it
+10249,Font Awesome,27,fontawesome
+10002,GitHub,27,github
+10300,Google DNS,27,google-dns
+10233,GSMA,27,gsma
+11051,Harness.io,27,harness-io
+10499,IANA Blackhole,27,blackhole-servers
+11058,ICANN,27,icann
+10382,jQuery,27,jquery
+10214,Let's Encrypt,27,lets-encrypt
+10033,Netify,27,netify
+11055,Netnod,27,netnod
+10498,No-IP,27,noip
+10333,Node.js,27,nodejs
+10061,NTP Time Servers,27,ntp
+11065,Observe,27,observability
+10984,PagerDuty,27,pagerduty
+11049,Prisma,27,prisma
+10006,Reverse DNS,27,reverse-dns
+10917,RIPE,27,ripe
+11042,Snowflake,27,snowflake
+10279,Speedtest by Ookla,27,speedtest
+10105,"",30,"360security"
+10182,"",30,areyouahuman
+197,"",30,opendns
+10292,Acronis,30,acronis
+10293,Adaware,30,adaware
+10252,Adblock Plus,30,adblock-plus
+11033,AdGuard,30,adguard
+10650,AhnLab,30,ahnlab
+10827,Airo,30,airoav
+10186,Avast,30,avast
+10442,AVG Antivirus,30,avg-antivirus
+10195,Avira,30,avira
+10193,Bitdefender,30,bitdefender
+10518,Check Point,30,checkpoint
+10792,Cisco Umbrella,30,cisco-umbrella
+10825,Clario,30,clario
+10346,Cloudmark,30,cloudmark
+10024,Comodo,30,comodo
+10844,CyberLucent,30,cyberlucent
+10509,Cylance,30,cylance
+10274,Cyren,30,cyren
+10147,DigiCert,30,digicert
+10884,DNSFilter,30,dnsfilter
+10882,Dynatrace,30,dynatrace
+10174,EICAR,30,eicar
+10513,Endian,30,endian
+10187,ESET,30,eset
+10826,F-Secure,30,f-secure
+10900,F5 Networks,30,f5-networks
+10507,Forcepoint,30,forcepoint
+10635,Forter,30,forter
+10540,Ghostery,30,ghostery
+10519,GlobalSign,30,globalsign
+10477,GoGuardian,30,goguardian
+10841,Human,30,human
+10605,Huntress,30,huntress-labs
+10565,IBM Trusteer,30,trusteer
+10268,IdenTrust,30,identrust
+10766,Imperva,30,imperva
+10828,Intego,30,intego
+10190,Kaspersky,30,kaspersky
+11046,Lacework,30,lacework
+10761,LexisNexis Risk,30,lexisnexis-risk
+10188,Malwarebytes,30,malwarebytes
+10330,MaxMind,30,maxmind
+10189,McAfee,30,mcafee
+11088,NextDNS,30,nextdns
+10976,OneTrust,30,onetrust
+10348,OPNsense,30,opnsense
+10275,Panda Security,30,panda-security
+10577,PC Matic,30,pc-matic
+10347,pfSense,30,pfsense
+10893,Proofpoint,30,proofpoint
+10410,PSBL,30,psbl
+11034,Quad9,30,quad9
+10852,Rapid7,30,rapid7
+10304,RapidSSL,30,rapidssl
+10351,Rpsamd,30,rspamd
+10451,Sectigo,30,sectigo
+10520,Secureworks,30,secureworks
+10354,Sender Score,30,senderscore
+10704,Shodan,30,shodan
+10669,Snort,30,snort
+10231,SonicWall,30,sonicwall
+10194,Sophos,30,sophos
+10353,SORBS,30,sorbs
+10371,SpamAssassin,30,spamassassin
+10355,SpamCannibal,30,spamcannibal
+10132,SpamCop,30,spamcop
+10131,Spamhaus,30,spamhaus
+10191,Spybot,30,spybot
+10232,SURBL,30,surbl
+10135,SuretyMail,30,suretymail
+10025,Symantec,30,symantec
+10550,Tenable,30,tenable
+10393,Thawte,30,thawte
+10288,Trend Micro,30,trend-micro
+10625,Trustwave,30,trustwave
+10133,URIBL Blacklist,30,uribl
+10023,Verisign,30,verisign
+10982,WatchGuard,30,watchguard
+10391,Amazon Devices,33,amazon-devices
+10619,Arlo,33,arlo
+10819,ASUS,33,asus
+10677,ASUSTOR,33,asustor
+10374,Belkin,33,belkin
+10440,BenQ,33,benq
+11000,Bose,33,bose
+10613,Buffalo Technology,33,buffalo-technology
+10403,Canon,33,canon
+10209,Cisco,33,cisco
+10007,Android,31,android
+10521,Arch Linux,31,arch-linux
+10259,CentOS,31,centos
+10378,Debian,31,debian
+10203,Docker,31,docker
+10455,FreeBSD,31,freebsd
+10909,Google Play,31,google-play
+10148,Linux Mint,31,linux-mint
+10334,NethServer,31,nethserver
+10196,Ninite,31,ninite
+10465,OpenWrt,31,openwrt
+10947,Pop OS,31,pop-os
+10628,Proxmox,31,proxmox
+10932,ReadyNAS,31,readynas
+10688,Red Hat,31,red-hat
+10767,Samsung Apps,31,samsung-store
+10615,TrueNAS,31,truenas
+10630,Turnkey Linux,31,turnkeylinux
+10256,Ubuntu,31,ubuntu
+10676,VirtualBox,31,virtualbox
+10647,VyOS,31,vyos
+11022,Windows,31,windows
+147,Windows Update,31,windows-update
+10291,iHeartRadio,29,iheartradio
+10866,iQiyi,29,iqiyi
+124,YouTube,29,youtube
+10140,"3CX",32,"3cx"
+10738,Amazon Chime,32,amazon-chime
+10005,Google Meet,32,google-hangouts
+10344,Google Voice,32,google-voice
+10143,Jive Communications,32,jive-communications
+10906,LINE,32,line
+10243,RingCentral,32,ringcentral
+125,Skype,32,skype
+10223,Telehop,32,telehop
+10181,"",33,tplink-cloud
+10183,"33Across",3,"33across"
+10772,AAX.media,3,aax-media
+10873,ADITION,3,adition
+10880,AdsWizz,3,adswizz
+10323,Akamai mPulse,3,mpulse-performance
+10331,Amplitude,3,amplitude
+10178,AppsFlyer,3,appsflyer
+10546,Beachfront Media,3,beachfront-media
+10732,Booyah Advertising,3,booyah-advertising
+10056,Chartbeat,3,chartbeat
+10594,ChurnZero,3,churnzero
+11003,CogoCast,3,cogocast
+10045,comScore,3,comscore
+10163,Conversant Media,3,conversant-media
+10319,Devicescape,3,devicescape
+10871,E-planning,3,e-planning
+10824,Flashtalking,3,flashtalking
+10935,GeistM,3,geist
+10041,Google Marketing,3,google-ads
+10437,Improve Digital,3,improve-digital
+10386,Integral Ads,3,adsafeprotected
+10345,Kissmetrics,3,kissmetrics
+10561,Localytics,3,localytics
+10263,Amazon CloudFront,35,amazon-cloudfront
+11071,BaishanCloud,35,baishancloud
+10740,CDN77,35,cdn77
+206,CloudFlare,35,cloudflare
+11038,Edgecast,35,edgecast
+10281,Fastly,35,fastly
+10973,Huawei CDN,35,huawei-cdn
+10460,Limelight Networks,35,limelight-networks
+10712,Lumen CDN,35,lumen-cdn
+10974,Meta CDN,35,meta-cdn
+10952,Wangsu,35,wangsu
+10681,ClearPHONE,33,clearphone
+10930,Crestron,33,crestron
+10933,Dahua,33,dahua
+10301,Dell,33,dell
+10480,Epson,33,epson
+10528,Ezviz,33,ezvizlife
+10534,Firewalla,33,firewalla
+10675,FreeIP,33,freeip
+10496,Garmin,33,garmin
+10759,GL.iNet,33,gl-inet
+10529,Hikvision,33,hikvision
+10420,Honeywell,33,honeywell
+10145,HP,33,hp
+10314,Huawei,33,huawei
+10478,iRobot,33,irobot
+10614,iXsystems Updates,33,ixsystems-updates
+10536,Juniper Networks,33,juniper-networks
+10422,Kyocera,33,kyocera
+10522,Lenovo,33,lenovo
+10607,Lexmark,33,lexmark
+10285,LG Smart TV,33,lg-smart-tv
+10609,LIFX,33,lifx
+10556,Lorex,33,lorex-technology
+10580,Meizu,33,meizu
+10603,Meross,33,meross
+10648,Mitsubishi Electric,33,mitsubishi-electric
+10638,MIUI OS,33,miui
+10684,MiWiFi,33,miwifi
+10273,mydlink,33,mydlink
+10439,Netatmo,33,netatmo
+10376,Netgear,33,netgear
+10809,Oculus,33,oculus
+10502,OPPO,33,oppo
+10582,Peplink,33,peplink
+10369,Philips,33,philips
+10485,Polycom,33,polycom
+10307,QNAP Systems,33,qnap
+10585,Raspberry Pi,33,raspberry-pi
+10438,Ring,33,ring
+10387,Ruckus Networks,33,ruckus-networks
+10823,Salient Systems,33,salientsys
+10679,Samsung Ads,33,samsung-ads
+10818,Samsung TV,33,samsung-tv
+10397,SiliconDust,33,silicondust
+10610,SnapAV,33,snapav
+10364,Sonos,33,sonos
+10284,Sony TV,33,sony-bravia
+10137,Synology,33,synology
+10915,Tenda,33,tenda
+10327,TP-Link,33,tp-link
+10618,Tuya Smart,33,tuya-smart
+10357,Vestel Appliances,33,vestel-appliances
+10861,Vivo,33,vivo
+10400,VIZIO,33,vizio
+10482,Withings,33,withings
+10149,Xerox,33,xerox
+10372,Xiaomi,33,xiaomi
+10375,Xiongmai,33,xiongmai
+10315,Yealink,33,yealink
+10492,Alibaba Cloud,36,alibaba-cloud
+10091,Amazon AWS,36,amazon-aws
+10078,AMP Project,36,amp
+11060,Aptum,36,aptum
+11005,Automattic,36,automattic
+11056,Cogent,36,cogent
+10316,DigitalOcean,36,digitalocean
+11087,G-Core Labs,36,g-core-labs
+10343,GoDaddy,36,godaddy
+11010,Google Hosted,36,google-hosted
+10718,Heroku,36,heroku
+10754,Hetzner,36,hetzner
+10453,HostGator,36,hostgator
+11069,Hurricane Electric,36,hurricane-electric
+10689,IBM Cloud,36,ibm-cloud
+11073,Kingsoft Cloud,36,kingsoft-cloud
+10317,Linode,36,linode
+10786,Lumen,36,lumen
+10305,Manitu Hosting,36,manitu-hosting
+10975,Netlify Hosting,36,netlify-hosting
+11006,Oracle Cloud,36,oracle-cloud
+10781,QX.net,36,qx-net
+10308,Rackspace,36,rackspace
+10653,Reflected Networks,36,reflected-networks
+10780,Squarespace,36,squarespace
+11085,Sungard,36,sungard
+10787,Tencent Cloud,36,tencent-cloud
+10129,Whois,36,whois
+10551,Wix,36,wix
+10755,Zenlayer,36,zenlayer
+10262,LogMeIn,34,logmein
+10699,RemotePC,34,remotepc
+11041,Splashtop,34,splashtop
+10230,TeamViewer,34,teamviewer
+10783,Media.net,3,media
+10051,Mixpanel,3,mixpanel
+10745,mParticle,3,mparticle
+10916,Narratiive,3,narratiive
+10901,OneSignal,3,onesignal
+10791,Oracle Advertising,3,oracle-advertising
+10739,PulsePoint,3,pulsepoint
+10987,Resonate,3,resonate
+10589,ScientiaMobile,3,scientiamobile
+10784,Smart AdServer,3,smartadserver
+11064,Spectrio,3,spectrio
+10730,Teads,3,teads
+10169,The Trade Desk,3,the-trade-desk
+10380,Umeng,3,umeng
+10959,Vertical Mass,3,vertical-mass
+10811,Yahoo Ads,3,yahoo-ads
+10870,ABC Australia,4,abc-australia
+10622,Brightcove,4,brightcove
+10338,Comcast,4,comcast
+10341,Disney,4,disney
+10994,Fox Corporation,4,fox-corporation
+10820,KuGou,4,kugou
+10413,Rhino Entertainment,4,rhino-entertainment
+10359,TheTVDB,4,thetvdb
+10398,zombo.com,4,zombo
+10746,Adobe Sign,5,adobe-sign
+10418,Amazon Silk,5,amazon-silk
+10774,AppDynamics,5,appdynamics
+10970,Astellas Pharma,5,astellas
+11075,atSpoke,5,atspoke
+10579,Axacore,5,axacore
+10573,Brave Browser,5,brave-browser
+10125,Cheetah Mobile,5,cheetahmobile
+10758,Chunghwa Telecom,5,chunghwa-telecom
+10564,ConnectWise,5,connectwise
+10042,Crashlytics,5,crashlytics
+10664,Domotz,5,domotz
+10032,eGloo,5,egloo
+11045,Figma,5,figma
+10441,Foxit,5,foxit-software
+126,Google,5,google
+10205,Google Domains,5,google-domains
+10698,GoTo,5,goto
+10487,HomeSeer,5,homeseer
+10036,Internal Network,5,internal-network
+11066,Kakao Corporation,5,kakao-corp
+10141,LANSolutions,5,lansolutions
+10356,LastPass,5,lastpass
+10967,LG,5,lg
+10651,LG Uplus,5,lg-uplus
+10040,Life360,5,life360
+10583,MACVendors,5,macvendors
+10707,Microsoft Auth,5,microsoft-authentication
+10737,MobTech,5,mobtech
+10241,NetSuite,5,netsuite
+10854,Notarius,5,notarius
+10860,One-Time Secret,5,onetimesecret
+10741,Parallels,5,parallels
+10459,Pocket,5,getpocket
+11063,RETN,5,retn
+10686,Seagate,5,seagate
+10541,Shaw,5,shaw-communications
+10167,SmugMug,5,smugmug
+10883,SOS Online Backup,5,sos-online-backup
+11089,Taiwan Mobile,5,taiwan-mobile
+10429,Trello,5,trello
+10961,UC Browser,5,uc-browser
+10407,Verizon Wireless,5,verizon-wireless
+10435,Wondershare,5,wondershare
+11047,WorkRamp,5,workramp
+11053,Y Combinator,5,y-combinator
+11081,ZoomInfo,5,zoominfo
+10672,Instructure,6,instructure
+10052,Wikispaces,6,wikispaces
+10011,Akamai,35,akamai
+11061,Alibaba CDN,35,alibaba-cdn
+11011,Azure Front Door,35,azure-front-door
+10763,Google CDN,35,google-cloud-cdn
+10753,StackPath,35,stackpath
+10463,Abuse.ch,30,abuse-ch
+10221,ADAMnetworks,30,adamnetworks
+10411,AnubisNetworks,30,anubisnetworks
+10352,Barracuda,30,barracuda
+10220,ClamAV,30,clamav
+11008,CrowdStrike,30,crowdstrike
+10597,Deep Instinct,30,deep-instinct
+10843,Ensighten,30,ensighten
+10620,Fortinet,30,fortinet
+10877,Hermes Network,30,hermes-network
+10165,iboss,30,iboss
+10692,Kali Linux,30,kali-linux
+10500,Mailshell,30,mailshell
+10280,Norton,30,norton
+10510,Palo Alto Networks,30,palo-alto-networks
+10408,Qihoo 360,30,qihoo-360
+10850,Secom Trust,30,secomtrust
+10996,Signifyd,30,signifyd
+10350,Spam Eating Monkey,30,spameatingmonkey
+10112,SpamExperts,30,spam-experts
+10384,Support Intelligence,30,support-intelligence
+10405,TrustArc,30,trustarc
+10192,Webroot,30,webroot
+10794,Aruba,33,aruba-networks
+10723,Brother,33,brother
+10295,Cisco Meraki,33,meraki
+10734,Eero,33,eero
+10276,FLIR Systems,33,flir
+10576,Grandstream,33,grandstream
+10423,iXsystems,33,ixsystems
+10029,Kindle,33,amazon-kindle
+10383,Logitech,33,logitech
+10335,MikroTik,33,mikrotik
+10057,Nest,33,nest
+10200,Nimble Storage,33,nimble-storage
+10608,Powerley,33,powerley
+10312,Roku,33,roku
+10202,Samsung,33,samsung
+10768,SmartThings,33,smartthings
+10473,Tivo,33,tivo
+10310,Ubiquiti,33,ubiquiti
+10867,Wyze,33,wyze
+10722,Zyxel,33,zyxel
+143,Apple iCloud,10,apple-icloud
+10211,Box,10,box-net
+10448,Leechers Paradise,10,leechers-paradise
+10446,OpenTrackr,10,opentrackr
+10523,Syncthing,10,syncthing
+10328,UsenetServer,10,usenetserver
+10751,American Express,9,american-express
+10728,BNP Paribas,9,bnp-paribas
+10171,Cigna,9,cigna
+10799,Discover Card,9,discover-card
+10659,Flypool BEAM,9,flypool-beam
+10660,Flypool Zcash,9,flypool-zcash
+10816,JPMorgan Chase,9,jpmorgan-chase
+10063,PayPal,9,paypal
+10018,Receipt Bank,9,receipt-bank
+10924,TransUnion,9,transunion
+10488,Wells Fargo,9,wells-fargo
+10942,Westpac,9,westpac
+10197,Wolters Kluwer,9,wolters-kluwer
+10030,Xero,9,xero
+10673,Zillow,9,zillow
+10665,Activision Blizzard,12,activision-blizzard
+10368,Blizzard Entertainment,12,blizzard
+10084,Clash Royale,12,clashroyale
+10937,FIFA by EA,12,fifa-ea
+10146,Hay Day,12,hayday
+10790,Microsoft Games,12,microsoft-games
+10517,Niantic,12,niantic-labs
+10020,Playstation,12,playstation
+10016,Rockstar Games,12,rockstar-games
+10208,Unity Games,12,unity-games
+10514,Government of Australia,13,australia-government
+10120,Government of Canada,13,canada-government
+10769,US GSA,13,gsa
+11009,Amazon S3,36,amazon-s3
+10953,China Telecom IDC,36,china-telecom-idc
+10733,Google Cloud,36,google-cloud
+10972,Huawei Cloud,36,huawei-cloud
+11086,Leaseweb,36,leaseweb
+10236,Microsoft Azure,36,azure
+10526,OVHcloud,36,ovhcloud
+11084,Samsung SDS,36,samsung-sds
+10793,Zayo,36,zayo
+10543,Hushmail,15,hushmail
+10911,ProtonMail,15,protonmail
+10170,Yahoo Mail,15,yahoo-mail
+10309,Lijit Popups,16,lijit
+10401,Facebook Messenger,17,facebook-messenger
+11020,Samsung Push,17,samsung-push
+48,Tencent QQ,17,qq
+10157,ABC News,18,abc-news
+10531,Daily Mail,18,daily-mail
+10235,NBC News,18,nbc-news
+11015,Sydney Morning Herald,18,sydney-morning-herald
+11028,The Guardian,18,the-guardian
+10175,The Weather Channel,18,the-weather-channel
+10415,Vox,18,vox
+10421,Washington Post,18,washington-post
+10431,ClearOS,31,clearos
+10260,Fedora Project,31,fedora-project
+10617,openSUSE,31,opensuse
+10629,Proxmox Updates,31,proxmox-updates
+10616,TrueNAS Updates,31,truenas-updates
+10424,UK Mirror Service,31,uk-mirror-service
+10160,DuckDuckGo,19,duckduckgo
+10114,Sina,19,sina
+70,Yahoo,19,yahoo
+10296,Fitbit,20,fitbit
+11026,Marriott Hotels and Resorts,20,marriott
+10079,Tim Hortons,20,timhortons
+10226,Bing Maps,21,bing-maps
+10859,Quora,21,quora
+10467,StackExchange,21,stackexchange
+10290,RescueAssist,34,rescueassist
+10778,AutoTrader,23,autotrader
+10106,Craigslist,23,craigslist
+10685,FlightHub,23,flighthub
+10117,Jingdong,23,jingdong
+11001,Macy,23,macys
+10109,Taobao,23,taobao
+10111,Tmall,23,tmall
+10627,Bitmoji,24,bitmoji
+119,Facebook,24,facebook
+10068,LinkedIn,24,linkedin
+10302,TikTok,24,tiktok
+210,Weibo,24,weibo
+10054,FotMob,26,fotmob
+10021,TeamSnap,26,teamsnap
+10985,Apple TV,29,apple-tv
+10180,Hotdog Radio,29,hotdog-radio
+204,OCS,29,orange-cinema-series
+10058,SoundCloud,29,soundcloud
+195,Twitch,29,twitch
+11019,Vudu,29,vudu
+10918,APNIC,27,apnic
+10248,Bootstrap,27,bootstrap
+10578,Fast,27,fast
+10204,GitLab,27,gitlab
+10254,gTLD,27,gtld-servers
+10458,LACNIC,27,lacnic
+10217,NIST,27,nist
+10457,Number Resource Organization,27,nro
+10464,RADb,27,radb
+10110,Root Servers,27,root-servers
+10427,Traefik,27,traefik
+10644,Blue Jeans Network,32,bluejeans
+10533,Houseparty,32,houseparty
+10991,TeamSpeak,32,teamspeak
+10527,Twilio,32,twilio
+10489,Viber,32,viber
+10179,VoIP.ms,32,voip-ms
+10813,Voyant,32,voyant
+141,Webex,32,webex
+10228,Zoom Video,32,zoom
+10646,CyberGhost VPN,28,cyberghostvpn
+10572,ExpressVPN,28,expressvpn
+10539,Hide.me VPN,28,hide-me
+11021,HMA,28,hma
+10802,Hola VPN,28,hola-vpn
+203,Hotspot Shield,28,hotspot-shield
+10516,NordVPN,28,nordvpn
+11036,PIA VPN,28,privateinternetaccess
+10225,SoftEther Web,28,softether
+10683,Surfshark,28,surfshark
+163,Tor Client,28,tor
+10668,TunnelBear,28,tunnelbear
+10639,Zscaler,28,zscaler
+10720,"8tube",2,"8tube"
+10286,YouPorn,2,youporn
+10001,Analytics,3,analytics

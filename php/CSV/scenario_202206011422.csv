@@ -1,0 +1,7 @@
+"id","edge_id","name","description"
+1,0,Bedtime,Off Internet
+2,0,Education,"Permit : Web Category, App Category Education; Ưu tiên dịch vụ, Ứng dụng hội họp , Học trực tuyến"
+3,0,Work,"Block: Social Network, Entertainment, Game,...; Ưu tiên dịch vụ, Ứng dụng hội họp"
+4,0,Entertainment,Permit all
+5,0,Meeting time,"Block: Social Network, Entertainment, Game,...; Ưu tiên dịch vụ, Ứng dụng hội họp"
+6,0,Rest time,Nothing
